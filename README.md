@@ -62,7 +62,7 @@ Tudo que está na pasta globals não precisa ser importado novamente, pois já e
     #!/bin/bash
 
     ## Clonar o projeto (OU realizar um FORK):
-    git clone 
+    git clone git@github.com:heviane/javascript-intro-tests.git
     cd javascript-intro-tests
 
     ## Inicializar o projeto:
