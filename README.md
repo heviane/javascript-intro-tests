@@ -1,8 +1,10 @@
 # Introduction to testing in javascript 🚀
 
-Tests e2e on web APIs with Node and Jest.
+- Tests **e2e** on web APIs with Node and Jest.
 
 O objetivo é criar uma API e testá-la por fora, do ponto de vista do cliente final.
+
+## About Tests
 
 - **Teste unitário**: Testar funcionalidade de forma isolada, sem dependências (ex: banco, infraestrutura, etc.), geralmente mockada e off-line. Basicamente o código precisa testar um valor de entrada e um valor de saída.
 - **Teste integração**, **Teste Funcional** ou **Teste End-to-End**: Testar iteração de uma funcionalidade com outra funcionalidade, ou com uma outra ponta da comunicação (ex: client browser, terminal, frontend, etc.).
