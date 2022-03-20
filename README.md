@@ -1,6 +1,6 @@
 # Introduction to testing in javascript 🚀
 
-- Tests **e2e** on web APIs with Node and Jest.
+- Tests **e2e** on web APIs with Javascript, Node and Jest.
 
 O objetivo é criar uma API e testá-la por fora, do ponto de vista do cliente final.
 
